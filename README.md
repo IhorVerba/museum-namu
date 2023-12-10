@@ -14,11 +14,11 @@ This educational endeavor was undertaken as part of a Frontend Development cours
 ## Technologies Utilized:
 The project incorporates the following technologies:
 
-HTML5
-CSS3
-SASS
-BEM
-Git
+- HTML5
+- CSS3
+- SASS
+- BEM
+- Git
 GitHub
 
 ## Contacts
